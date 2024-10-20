@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.24)
-project(IVector)
+project(ILogger)
 
 include_directories(include)
 file(GLOB SRC src/*.cpp)
