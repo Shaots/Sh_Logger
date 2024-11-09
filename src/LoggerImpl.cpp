@@ -38,7 +38,7 @@ const char* LoggerImpl::levelToString(Level level) {
     case ILogger::Level::WARNING:
         return "Warning";
     case ILogger::Level::INFO:
-        return "INFO";
+        return "Info";
     default:
         return "";
     }
